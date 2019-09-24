@@ -1,5 +1,5 @@
 # Intro to Django routes/endpoints graded classwork 
-
+#### please use .gitignore please comment your code. You have the routes successfully set up but you cannot hit them. You need to add a forward slash to the end of the path name (ex:gogetthegood/, NOT gogetthegood) in order to make them operable. 2/5 Score:1/3
 Endpoints are the most important concept when it comes to backend web services. Based on the URL you route the request to the proper piece of code to service the request and return a response.
 
 In the Django implementation, you have a default set of endpoints, but can have specific ones for the various applications that make your overall implementation.
